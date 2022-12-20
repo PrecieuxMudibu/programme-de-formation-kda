@@ -1,0 +1,5 @@
+HTML 5
+
+Le HTML est un langage qui a été créé en 1991. Les sigles « HTML » sont l’abréviation de « HyperText Markup Language » ou « langage de balisage hypertexte » en français.
+Le HTML est donc un langage de balisage, c’est-à-dire un langage qui va nous permettre de définir les différents contenus d’une page.
+Pour mettre en forme votre page, découvrez le CSS en cliquant ici.

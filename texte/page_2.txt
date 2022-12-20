@@ -1,0 +1,5 @@
+CSS 3
+
+Le CSS a été créé en 1996, soit 5 ans après le HTML. Les sigles « CSS » sont l’abréviation de « Cascading StyleSheets » ou « feuilles de styles en cascade » en français.
+Le CSS va servir à mettre en forme les différents contenus définis par le HTML en leur appliquant des styles.
+Pour définir le contenu de votre page, découvrez le HTML en cliquant ici.
